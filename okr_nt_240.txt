@@ -1,0 +1,22 @@
+/home/mfs6174/MyWindows/data/可比克/template/kebike.png true pos 12 12 thresh 9
+/home/mfs6174/MyWindows/data/美的/template/timg.jpeg true pos 18 20 thresh 8
+/home/mfs6174/MyWindows/data/露露/template/lululu.jpg true pos 12 12 thresh 15
+/home/mfs6174/MyWindows/data/伊利/template/2224093_114554306131_2.jpg true pos 5 5 thresh 13
+/home/mfs6174/MyWindows/data/徐福记/template/xufuji.jpg true pos 29 29 thresh 13
+/home/mfs6174/MyWindows/data/蒙牛/template/f110daccf6ebddaf6a1032d62eca3355.jpg true pos 52 54 thresh 7
+/home/mfs6174/MyWindows/data/伊利优酸乳/template/liyiyousuanru3.jpg true pos 15 15 thresh 31
+/home/mfs6174/MyWindows/data/海天/template/i_top.png true pos 9 9 thresh 8
+/home/mfs6174/MyWindows/data/李锦记/template/lijinji.jpg true pos 32 32 thresh 8
+/home/mfs6174/MyWindows/data/苏泊尔/template/d92c9cef1a49c851e76fcf68a6d3627c.png true pos 10 10 thresh 19
+/home/mfs6174/MyWindows/data/雀巢/template/quecao.jpg true pos 7 7 thresh 8
+/home/mfs6174/MyWindows/data/康师傅/template/4ec2d5628535e5dd759f7bb27dc6a7efce1b6228副本.png true pos 30 30 thresh 12
+/home/mfs6174/MyWindows/data/九阳/template/logo (1).png true pos 13 14 thresh 12
+/home/mfs6174/MyWindows/data/美的/IMG_2801.JPG match no! shoud be /home/mfs6174/MyWindows/data/美的/template/timg.jpeg
+/home/mfs6174/MyWindows/data/美的/IMG_2805.JPG match no! shoud be /home/mfs6174/MyWindows/data/美的/template/timg.jpeg
+/home/mfs6174/MyWindows/data/蒙牛/P80303-181634.jpg match no! shoud be /home/mfs6174/MyWindows/data/蒙牛/template/f110daccf6ebddaf6a1032d62eca3355.jpg
+/home/mfs6174/MyWindows/data/蒙牛/P80303-181756.jpg match no! shoud be /home/mfs6174/MyWindows/data/蒙牛/template/f110daccf6ebddaf6a1032d62eca3355.jpg
+/home/mfs6174/MyWindows/data/九阳/IMG_2830.JPG match no! shoud be /home/mfs6174/MyWindows/data/九阳/template/logo (1).png
+true pos 244 249 0.979919678715
+no match 5 249 0.0200803212851
+wrong match 0 249 0.0
+avg time 0.0946071846897
